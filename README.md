@@ -1,6 +1,6 @@
 # João Marcos Tomáz
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-marcos-tomáz-9442661b5/)](https://www.linkedin.com/in/joão-marcos-tomáz-9442661b5/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-marcos-tomáz-9442661b5/)](https://www.linkedin.com/in/joãomarcostomáz/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5537998222800!)](https://api.whatsapp.com/send?phone=5537998222800!)
 
 
