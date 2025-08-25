@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and Data analysis**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/JMTomazSC?tab=repositories](https://github.com/joaomarcostomaz?tab=repositories)]([https://github.com/JMTomazSC?tab=repositories](https://github.com/joaomarcostomaz?tab=repositories))
+- 👨‍💻 All of my projects are available at my repositories
 
 - 📫 How to reach me **joaomarcostomaz674@gmail.com**
 
