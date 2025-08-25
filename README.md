@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **joaomarcostomaz674@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joãomarcostomáz/](https://www.linkedin.com/in/joaomarcostomaz/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/joaomarcostomaz/](https://www.linkedin.com/in/joaomarcostomaz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
